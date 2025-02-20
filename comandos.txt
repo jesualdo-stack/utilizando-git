@@ -6,3 +6,7 @@ git status
 
 -> Adicionar os novos arquivos no git para versionar
 git add .
+
+-> Salva uma versão dos arquivos
+git commit -m "Por que estou salvando???"
+
