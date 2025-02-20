@@ -1,2 +1,5 @@
 -> Inicializa um repositório git (utilizaeo apenas 1 vez)
 git init
+
+-> Verificar o status do repositório
+git status
