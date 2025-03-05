@@ -1,5 +1,5 @@
 -> Configura o pc com o nome e o e-mail do responsável pelo código
-git config --global user.nome "Jesualdo Brandão Dias Júnior"
+git config --global user.name "Jesualdo Brandão Dias Júnior"
 git config --global email.user jesualdo.dias@fatec.sp.gov.br
 
 -> navegando no cmd
